@@ -1,6 +1,8 @@
 # fritz-zsh-theme
 A custom theme for oh-my-zsh
 
+![screenshot](./screenshot.png)
+
 ## To get & set the theme
 ```bash
 git clone https://github.com/fritzccc/fritz-zsh-theme.git
